@@ -1,0 +1,9 @@
+2021-09-30 13:57:58,320 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-30 13:58:04,540 [main] INFO  bootstrap.Driver - Starting new game
+2021-09-30 13:58:06,582 [main] INFO  bootstrap.Driver - Total number of players 5
+2021-09-30 13:58:33,940 [main] INFO  domain.Board - Player no: 1
+2021-09-30 13:58:33,941 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-30 13:58:35,358 [main] INFO  domain.Board - Player no: 2
+2021-09-30 13:58:35,359 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-30 13:58:36,657 [main] INFO  domain.Board - Player no: 3
+2021-09-30 13:58:36,659 [main] INFO  domain.Board - Number on rolling dice 3

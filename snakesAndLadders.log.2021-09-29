@@ -1,0 +1,192 @@
+2021-09-29 07:33:40,504 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:33:43,072 [main] INFO  domain.Board - Starting previous game
+2021-09-29 07:35:07,788 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:35:10,893 [main] INFO  bootstrap.Driver - Starting new game
+2021-09-29 07:35:12,766 [main] INFO  bootstrap.Driver - Total number of players 4
+2021-09-29 07:35:18,269 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:35:18,270 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:35:19,290 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:35:19,292 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:35:25,139 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:35:25,140 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:35:26,766 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:35:26,767 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:35:26,768 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 25
+2021-09-29 07:35:44,973 [main] INFO  domain.Board - Game Over shutting down
+2021-09-29 07:35:48,959 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:35:52,242 [main] INFO  domain.Board - Starting previous game
+2021-09-29 07:37:10,553 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:37:13,292 [main] INFO  bootstrap.Driver - Starting new game
+2021-09-29 07:37:14,752 [main] INFO  bootstrap.Driver - Total number of players 4
+2021-09-29 07:37:15,677 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:37:15,679 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:37:16,663 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:37:16,664 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:37:17,465 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:37:17,467 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:37:18,071 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:37:18,072 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:37:19,512 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:37:19,514 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:37:31,376 [main] INFO  domain.Board - Game Over shutting down
+2021-09-29 07:37:34,966 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:37:37,360 [main] INFO  domain.Board - Starting previous game
+2021-09-29 07:39:35,378 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:39:37,215 [main] INFO  bootstrap.Driver - Starting new game
+2021-09-29 07:39:40,939 [main] INFO  bootstrap.Driver - Total number of players 4
+2021-09-29 07:39:41,563 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:39:41,564 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:39:42,222 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:39:42,224 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:39:42,958 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:39:42,959 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:39:49,593 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:39:49,594 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:39:49,596 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:39:49,596 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:39:58,338 [main] INFO  domain.Board - Game Over shutting down
+2021-09-29 07:40:04,140 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:40:06,080 [main] INFO  domain.Board - Starting previous game
+2021-09-29 07:40:13,438 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:40:13,440 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:40:14,495 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:40:14,495 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:40:16,495 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:40:16,496 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:40:16,497 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 25
+2021-09-29 07:40:17,262 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:40:17,263 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:40:17,906 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:40:17,907 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:40:24,155 [main] INFO  bootstrap.Driver - New player added 
+ Total number of players 5
+2021-09-29 07:40:25,684 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:40:25,686 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:40:26,412 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:40:26,413 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:40:27,391 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:40:27,392 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:40:27,979 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:40:27,980 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:40:27,982 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 46
+2021-09-29 07:40:38,773 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:40:38,775 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:40:39,710 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:40:39,710 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:40:44,588 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:40:44,589 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:40:44,590 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 49
+2021-09-29 07:40:45,609 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:40:45,610 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:40:47,067 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:40:47,067 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:40:51,051 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:40:51,052 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:40:51,923 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:40:51,923 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:40:53,064 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:40:53,065 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:40:57,086 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:40:57,087 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:40:59,027 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:40:59,027 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:40:59,874 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:40:59,875 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:00,717 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:41:00,718 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:41:01,544 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:41:01,545 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:02,475 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:41:02,476 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:03,579 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:41:03,580 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:41:04,698 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:41:04,698 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:41:04,699 [main] INFO  domain.Board - Oh no you landed over a snake you will be demoted to position 5
+2021-09-29 07:41:05,777 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:41:05,778 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:41:11,384 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:41:11,384 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:41:12,372 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:41:12,373 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:41:13,245 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:41:13,246 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:41:13,918 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:41:13,919 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:41:16,369 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:41:16,370 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:18,570 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:41:18,571 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:41:21,031 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:41:21,032 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:41:22,353 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:41:22,354 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:41:22,356 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 81
+2021-09-29 07:41:23,425 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:41:23,425 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:41:24,495 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:41:24,495 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:41:25,360 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:41:25,360 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:28,568 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:41:28,569 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:41:28,569 [main] INFO  domain.Board - Oh no you landed over a snake you will be demoted to position 5
+2021-09-29 07:41:29,764 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:41:29,765 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:41:30,841 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:41:30,841 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:41:31,663 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:41:31,664 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:41:34,102 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:41:34,103 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:41:34,104 [main] INFO  domain.Board - Great you landed over a ladder you will be promoted to position 92
+2021-09-29 07:41:35,731 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:41:35,731 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:42:01,916 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:42:01,917 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:42:01,918 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:42:01,918 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:42:05,814 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:42:05,815 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:42:06,567 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:42:06,567 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:42:07,104 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:42:07,105 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:42:07,952 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:42:07,952 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:42:08,502 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:42:08,503 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:42:09,107 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:42:09,108 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:42:09,697 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:42:09,698 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:42:09,699 [main] INFO  domain.Board - Oh no you landed over a snake you will be demoted to position 41
+2021-09-29 07:42:10,296 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:42:10,297 [main] INFO  domain.Board - Number on rolling dice 3
+2021-09-29 07:42:14,490 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:42:14,491 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:42:16,382 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:42:16,383 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:42:17,627 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:42:17,628 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:42:18,595 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:42:18,596 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:42:19,677 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:42:19,678 [main] INFO  domain.Board - Number on rolling dice 6
+2021-09-29 07:42:20,944 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:42:20,946 [main] INFO  domain.Board - Number on rolling dice 4
+2021-09-29 07:42:22,490 [main] INFO  domain.Board - Player no: 2
+2021-09-29 07:42:22,491 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:42:26,027 [main] INFO  domain.Board - Player no: 3
+2021-09-29 07:42:26,028 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:42:28,901 [main] INFO  domain.Board - Player no: 4
+2021-09-29 07:42:28,902 [main] INFO  domain.Board - Number on rolling dice 1
+2021-09-29 07:42:30,383 [main] INFO  domain.Board - Player no: 5
+2021-09-29 07:42:30,384 [main] INFO  domain.Board - Number on rolling dice 5
+2021-09-29 07:42:31,293 [main] INFO  domain.Board - Player no: 1
+2021-09-29 07:42:31,294 [main] INFO  domain.Board - Number on rolling dice 2
+2021-09-29 07:42:31,294 [main] INFO  domain.Board - Oh no you landed over a snake you will be demoted to position 41
+2021-09-29 07:42:39,327 [main] INFO  domain.Board - Game Over shutting down
+2021-09-29 07:42:46,279 [main] INFO  bootstrap.Driver - Starting snakesAndLadders
+2021-09-29 07:42:48,786 [main] INFO  domain.Board - Starting previous game
+2021-09-29 07:43:03,261 [main] INFO  domain.Board - Game Over shutting down
